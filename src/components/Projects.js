@@ -23,7 +23,7 @@ export const Projects = () => {
       title: "PortFolio",
       description: "Web Design & Development",
       imgUrl: projImg2,
-      link :"https://personal-portfolio-52tkwblgf-tejeshsanas-projects.vercel.app/"
+      link :"https://github.com/TejeshSana/personal-portfolio"
     },
     {
       title: "Snake Game",
@@ -47,7 +47,7 @@ export const Projects = () => {
       title: "Money Tracker",
       description: "Web Application",
       imgUrl: projImg6,
-      link :"https://money-tracker-dlir5lacf-tejeshsanas-projects.vercel.app/"
+      link :"https://github.com/TejeshSana/Money-tracker-app"
     },
   ];
 
