@@ -50,6 +50,8 @@ export const NavBar = () => {
                 <a href="https://www.linkedin.com/in/sai-tejesh-sana-2ab103248/"><img src={navIcon1} alt="" /></a>
                 <a href="https://github.com/TejeshSana"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/sai_tejesh_sana/"><img src={navIcon3} alt="" /></a>
+            
+
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
